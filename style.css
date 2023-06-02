@@ -196,7 +196,7 @@ body {
   margin-inline-end: 5px;
   color: hsl(228, 12%, 44%);
 }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 600px) {
   .header {
     flex-direction: column;
   }
@@ -208,7 +208,7 @@ body {
     margin: 0 auto;
   }
   .card {
-    width: 80%;
+    width: 200%;
   }
   .second_card {
     padding-inline-start: 0;
